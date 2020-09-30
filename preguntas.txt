@@ -1,0 +1,10 @@
+1. products_found = [product for product in Products if product['name'] == product_name]
+esta viendo un ejemplo de method get en python con flask
+y usa un for in
+no hay problema con eso
+lo que no entiendo es porque agrega un name antes de definir el forin
+for in
+me refiero a product  ---> products_found = [product....
+y si lo ejecuto sin no me corre
+no entiendo la funcionalidad de product.. dentro del script
+me podrias ayudar porfa
